@@ -59,15 +59,5 @@ namespace WindowsFormsApplication1.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Logo_ITIS_MEUCCI___Firenze__1_1 {
-            get {
-                object obj = ResourceManager.GetObject("Logo ITIS MEUCCI - Firenze (1)1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }
