@@ -24,7 +24,7 @@ namespace WindowsFormsApplication1
             getter();
             int i = iArray.Max();
             int d = iArray.Min();
-            MessageBox.Show("MAX: "+i.ToString()+ " MIN: "+d.ToString());
+            MessageBox.Show("MAX NUMBER: "+i.ToString()+ " MIN NUMBER: "+d.ToString());
         }//find Max and Min datas
         private void button2_Click(object sender, EventArgs e)
         {
